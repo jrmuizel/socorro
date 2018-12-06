@@ -12,6 +12,7 @@ Abort
 .*alloc_impl
 alloc::oom::default_oom_handler
 alloc::oom::oom
+alloc::vec::Vec<T>::reserve<T>
 _alloca_probe
 __android_log_assert
 arena_
